@@ -1,4 +1,3 @@
-package CS201LLab1;
 import java.util.Scanner;
 //NAME:  add your name here
 //DATE:  add the current date of your lab class
